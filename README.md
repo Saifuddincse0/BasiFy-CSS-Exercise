@@ -1,1 +1,1 @@
-# basiFy-CSS-Exercise
+# BasiFy-CSS-Exercise
